@@ -1,4 +1,5 @@
-# Progressive State Space Disaggregation for Infinite Horizon Dynamic Programming
+# Code for article *Progressive State Space Disaggregation for Infinite Horizon Dynamic Programming*
+
 
 How to use the repository in few steps :
 - git clone https://github.com/ArticleAnonymous/ICAPSagg.git
